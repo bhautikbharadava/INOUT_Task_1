@@ -11,7 +11,7 @@ render(){
   return(
     <div>
 
-      <Hello name="CodeSandbox" />
+      <Hello name="Skill BoX" />
       <Skills/>
     </div>
   )
